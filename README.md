@@ -6,6 +6,9 @@ Covering the following topics:
 
 - Neural Networks w/ Numpy & Pytorch
 - Convolutional Neural Networks
+  - Autoencoders
+  - Transfer learning
+  - Style transfer
 - Recursive Neural Networks
   - Elman Network
   - LSTM Cells
