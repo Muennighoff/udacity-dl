@@ -13,7 +13,7 @@ Covering the following topics:
   - Elman Network
   - LSTM Cells
   - Gated Recurent Units
-- Generative Adverserial Networks
+- Generative Adversarial Networks
   - DCGAN
   - Pix2Pix
   - CycleGAN
