@@ -9,7 +9,7 @@ Covering the following topics:
   - Autoencoders
   - Transfer learning
   - Style transfer
-- Recursive Neural Networks
+- Recurrent Neural Networks
   - Elman Network
   - LSTM Cells
   - Gated Recurent Units
